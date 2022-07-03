@@ -1,0 +1,16 @@
+{
+    "name": "Game",
+    "rootNamespace": "JoyWayTest.Game",
+    "references": [
+        "GUID:49ed4fd773fb5da4c86f7158c688a74d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

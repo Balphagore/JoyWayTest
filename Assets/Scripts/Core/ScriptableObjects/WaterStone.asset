@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0d9913b7095b7444a191e565fb34514, type: 3}
+  m_Name: WaterStone
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 2860483763094806172, guid: 5c96684914812224e947aa3e3f8e8ef3, type: 3}
+  itemType: 0
+  projectilePrefab: {fileID: 6205493088949297593, guid: bb4ad0d171b7c1d4cac53acc3ef56f59, type: 3}
+  fireCooldown: 1
+  projectileMass: 1
+  projectileInitialSpeed: 10
+  projectileDamage: 0
+  statusDamage: 10
+  projectileContainer: {fileID: 0}
+  effectContainer: {fileID: 0}

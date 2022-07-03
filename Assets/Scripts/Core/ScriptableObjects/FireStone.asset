@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b40ea31d4d973f4782b768bb3b67969, type: 3}
+  m_Name: FireStone
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 7192229124844958041, guid: 377ce9292c093a048ac946bda1252a2d, type: 3}
+  itemType: 1
+  emissionSpeed: 10
+  particleDamage: 1
+  statusDamage: -1
